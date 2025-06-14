@@ -1,0 +1,15 @@
+c:\DATA 2\BELAJAR-CSHARP\DotnetTutorials-EventsDelegatesAndLambdaExpressionInCsharp\DelegatesCsharp\bin\Debug\net8.0\DelegatesCsharp.exe
+c:\DATA 2\BELAJAR-CSHARP\DotnetTutorials-EventsDelegatesAndLambdaExpressionInCsharp\DelegatesCsharp\bin\Debug\net8.0\DelegatesCsharp.deps.json
+c:\DATA 2\BELAJAR-CSHARP\DotnetTutorials-EventsDelegatesAndLambdaExpressionInCsharp\DelegatesCsharp\bin\Debug\net8.0\DelegatesCsharp.runtimeconfig.json
+c:\DATA 2\BELAJAR-CSHARP\DotnetTutorials-EventsDelegatesAndLambdaExpressionInCsharp\DelegatesCsharp\bin\Debug\net8.0\DelegatesCsharp.dll
+c:\DATA 2\BELAJAR-CSHARP\DotnetTutorials-EventsDelegatesAndLambdaExpressionInCsharp\DelegatesCsharp\bin\Debug\net8.0\DelegatesCsharp.pdb
+c:\DATA 2\BELAJAR-CSHARP\DotnetTutorials-EventsDelegatesAndLambdaExpressionInCsharp\DelegatesCsharp\obj\Debug\net8.0\DelegatesCsharp.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\BELAJAR-CSHARP\DotnetTutorials-EventsDelegatesAndLambdaExpressionInCsharp\DelegatesCsharp\obj\Debug\net8.0\DelegatesCsharp.AssemblyInfoInputs.cache
+c:\DATA 2\BELAJAR-CSHARP\DotnetTutorials-EventsDelegatesAndLambdaExpressionInCsharp\DelegatesCsharp\obj\Debug\net8.0\DelegatesCsharp.AssemblyInfo.cs
+c:\DATA 2\BELAJAR-CSHARP\DotnetTutorials-EventsDelegatesAndLambdaExpressionInCsharp\DelegatesCsharp\obj\Debug\net8.0\DelegatesCsharp.csproj.CoreCompileInputs.cache
+c:\DATA 2\BELAJAR-CSHARP\DotnetTutorials-EventsDelegatesAndLambdaExpressionInCsharp\DelegatesCsharp\obj\Debug\net8.0\DelegatesCsharp.sourcelink.json
+c:\DATA 2\BELAJAR-CSHARP\DotnetTutorials-EventsDelegatesAndLambdaExpressionInCsharp\DelegatesCsharp\obj\Debug\net8.0\DelegatesCsharp.dll
+c:\DATA 2\BELAJAR-CSHARP\DotnetTutorials-EventsDelegatesAndLambdaExpressionInCsharp\DelegatesCsharp\obj\Debug\net8.0\refint\DelegatesCsharp.dll
+c:\DATA 2\BELAJAR-CSHARP\DotnetTutorials-EventsDelegatesAndLambdaExpressionInCsharp\DelegatesCsharp\obj\Debug\net8.0\DelegatesCsharp.pdb
+c:\DATA 2\BELAJAR-CSHARP\DotnetTutorials-EventsDelegatesAndLambdaExpressionInCsharp\DelegatesCsharp\obj\Debug\net8.0\DelegatesCsharp.genruntimeconfig.cache
+c:\DATA 2\BELAJAR-CSHARP\DotnetTutorials-EventsDelegatesAndLambdaExpressionInCsharp\DelegatesCsharp\obj\Debug\net8.0\ref\DelegatesCsharp.dll
