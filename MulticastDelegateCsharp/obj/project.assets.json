@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Belajar-CSharp\\DotnetTutorials-EventsDelegatesAndLambdaExpressionInCsharp\\DelegatesCsharp\\DelegatesCsharp.csproj",
-      "projectName": "DelegatesCsharp",
-      "projectPath": "D:\\Belajar-CSharp\\DotnetTutorials-EventsDelegatesAndLambdaExpressionInCsharp\\DelegatesCsharp\\DelegatesCsharp.csproj",
+      "projectUniqueName": "D:\\Belajar-CSharp\\DotnetTutorials-EventsDelegatesAndLambdaExpressionInCsharp\\MulticastDelegateCsharp\\MulticastDelegateCsharp.csproj",
+      "projectName": "MulticastDelegateCsharp",
+      "projectPath": "D:\\Belajar-CSharp\\DotnetTutorials-EventsDelegatesAndLambdaExpressionInCsharp\\MulticastDelegateCsharp\\MulticastDelegateCsharp.csproj",
       "packagesPath": "C:\\Users\\alhac\\.nuget\\packages\\",
-      "outputPath": "D:\\Belajar-CSharp\\DotnetTutorials-EventsDelegatesAndLambdaExpressionInCsharp\\DelegatesCsharp\\obj\\",
+      "outputPath": "D:\\Belajar-CSharp\\DotnetTutorials-EventsDelegatesAndLambdaExpressionInCsharp\\MulticastDelegateCsharp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Users\\alhac\\AppData\\Roaming\\Godot\\mono\\GodotNuGetFallbackFolder",
