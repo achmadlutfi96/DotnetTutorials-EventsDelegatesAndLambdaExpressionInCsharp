@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Belajar-CSharp\\DotnetTutorials-EventsDelegatesAndLambdaExpressionInCsharp\\MulticastDelegateCsharp\\MulticastDelegateCsharp.csproj": {}
+    "D:\\Belajar-CSharp\\DotnetTutorials-EventsDelegatesAndLambdaExpressionInCsharp\\MulticastDelegateCsharp\\MulticastDelegateCsharp.csproj": {}
   },
   "projects": {
-    "d:\\Belajar-CSharp\\DotnetTutorials-EventsDelegatesAndLambdaExpressionInCsharp\\MulticastDelegateCsharp\\MulticastDelegateCsharp.csproj": {
+    "D:\\Belajar-CSharp\\DotnetTutorials-EventsDelegatesAndLambdaExpressionInCsharp\\MulticastDelegateCsharp\\MulticastDelegateCsharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Belajar-CSharp\\DotnetTutorials-EventsDelegatesAndLambdaExpressionInCsharp\\MulticastDelegateCsharp\\MulticastDelegateCsharp.csproj",
+        "projectUniqueName": "D:\\Belajar-CSharp\\DotnetTutorials-EventsDelegatesAndLambdaExpressionInCsharp\\MulticastDelegateCsharp\\MulticastDelegateCsharp.csproj",
         "projectName": "MulticastDelegateCsharp",
-        "projectPath": "d:\\Belajar-CSharp\\DotnetTutorials-EventsDelegatesAndLambdaExpressionInCsharp\\MulticastDelegateCsharp\\MulticastDelegateCsharp.csproj",
+        "projectPath": "D:\\Belajar-CSharp\\DotnetTutorials-EventsDelegatesAndLambdaExpressionInCsharp\\MulticastDelegateCsharp\\MulticastDelegateCsharp.csproj",
         "packagesPath": "C:\\Users\\alhac\\.nuget\\packages\\",
-        "outputPath": "d:\\Belajar-CSharp\\DotnetTutorials-EventsDelegatesAndLambdaExpressionInCsharp\\MulticastDelegateCsharp\\obj\\",
+        "outputPath": "D:\\Belajar-CSharp\\DotnetTutorials-EventsDelegatesAndLambdaExpressionInCsharp\\MulticastDelegateCsharp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Users\\alhac\\AppData\\Roaming\\Godot\\mono\\GodotNuGetFallbackFolder",
