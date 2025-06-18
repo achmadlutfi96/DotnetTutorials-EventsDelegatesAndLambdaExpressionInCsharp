@@ -1,25 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Belajar-CSharp\\DotnetTutorials-EventsDelegatesAndLambdaExpressionInCsharp\\DelegatesCsharp\\DelegatesCsharp.csproj": {}
+    "C:\\DATA 2\\BELAJAR-CSHARP\\DotnetTutorials-EventsDelegatesAndLambdaExpressionInCsharp\\DelegatesCsharp\\DelegatesCsharp.csproj": {}
   },
   "projects": {
-    "D:\\Belajar-CSharp\\DotnetTutorials-EventsDelegatesAndLambdaExpressionInCsharp\\DelegatesCsharp\\DelegatesCsharp.csproj": {
+    "C:\\DATA 2\\BELAJAR-CSHARP\\DotnetTutorials-EventsDelegatesAndLambdaExpressionInCsharp\\DelegatesCsharp\\DelegatesCsharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Belajar-CSharp\\DotnetTutorials-EventsDelegatesAndLambdaExpressionInCsharp\\DelegatesCsharp\\DelegatesCsharp.csproj",
+        "projectUniqueName": "C:\\DATA 2\\BELAJAR-CSHARP\\DotnetTutorials-EventsDelegatesAndLambdaExpressionInCsharp\\DelegatesCsharp\\DelegatesCsharp.csproj",
         "projectName": "DelegatesCsharp",
-        "projectPath": "D:\\Belajar-CSharp\\DotnetTutorials-EventsDelegatesAndLambdaExpressionInCsharp\\DelegatesCsharp\\DelegatesCsharp.csproj",
-        "packagesPath": "C:\\Users\\alhac\\.nuget\\packages\\",
-        "outputPath": "D:\\Belajar-CSharp\\DotnetTutorials-EventsDelegatesAndLambdaExpressionInCsharp\\DelegatesCsharp\\obj\\",
+        "projectPath": "C:\\DATA 2\\BELAJAR-CSHARP\\DotnetTutorials-EventsDelegatesAndLambdaExpressionInCsharp\\DelegatesCsharp\\DelegatesCsharp.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "C:\\DATA 2\\BELAJAR-CSHARP\\DotnetTutorials-EventsDelegatesAndLambdaExpressionInCsharp\\DelegatesCsharp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Users\\alhac\\AppData\\Roaming\\Godot\\mono\\GodotNuGetFallbackFolder",
+          "C:\\Users\\HP\\AppData\\Roaming\\Godot\\mono\\GodotNuGetFallbackFolder",
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\alhac\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Users\\alhac\\AppData\\Roaming\\NuGet\\config\\Godot.Offline.Config",
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\config\\Godot.Offline.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
