@@ -1,18 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Xqadn7kXg6U=",
+  "dgSpecHash": "TuYahiwDYFU=",
   "success": true,
-  "projectFilePath": "C:\\DATA 2\\BELAJAR-CSHARP\\DotnetTutorials-EventsDelegatesAndLambdaExpressionInCsharp\\DelegatesCsharp\\DelegatesCsharp.csproj",
+  "projectFilePath": "D:\\Belajar-CSharp\\DotnetTutorials-EventsDelegatesAndLambdaExpressionInCsharp\\DelegatesCsharp\\DelegatesCsharp.csproj",
   "expectedPackageFiles": [],
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "message": "Problem reading the cache file C:\\DATA 2\\BELAJAR-CSHARP\\DotnetTutorials-EventsDelegatesAndLambdaExpressionInCsharp\\DelegatesCsharp\\obj\\project.nuget.cache : '<' is an invalid start of a property name. Expected a '\"'. Path: $ | LineNumber: 2 | BytePositionInLine: 0.",
-      "projectPath": "C:\\DATA 2\\BELAJAR-CSHARP\\DotnetTutorials-EventsDelegatesAndLambdaExpressionInCsharp\\DelegatesCsharp\\DelegatesCsharp.csproj",
-      "warningLevel": 1,
-      "filePath": "C:\\DATA 2\\BELAJAR-CSHARP\\DotnetTutorials-EventsDelegatesAndLambdaExpressionInCsharp\\DelegatesCsharp\\DelegatesCsharp.csproj",
-      "targetGraphs": []
-    }
-  ]
+  "logs": []
 }
